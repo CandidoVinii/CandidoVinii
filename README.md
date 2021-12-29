@@ -4,15 +4,13 @@ Tenho 21 anos e atualmente eu moro em Juiz de Fora/MG, mas sou nascido e criado 
 
 Desde pequeno fui apaixonado e viciado em tecnologia, sempre tive bastante contato com essa área e cresci com o sonho de poder criar jogos e programas. 🤓
 
-Larguei a faculdade de Engenharia Ambiental na UFJF para poder seguir meu sonho, agora eu faço Análise e Desenvolvimento de Sistemas na Estácio. Além disso estou matriculado no curso ESPETACULAR da trybe.🎈
+Larguei a faculdade de Engenharia Ambiental na UFJF para poder seguir meu sonho, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Além disso estou matriculado no curso ESPETACULAR da trybe.🎈
 
 <p align="center">
     <img whidth="200" height="200" src="https://c.tenor.com/dmv-uCkUFEwAAAAC/celebrating-how-i-met-your-mother.gif">
-    </br>
-    
 </p>
 
-Bom espero que gostem dos projetos e qualquer dúvida podem me procurar nos links abaixo 😘🤙
+Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me procurar nos links abaixo 😘🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-candido-749262110/)
 
