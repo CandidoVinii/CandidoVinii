@@ -2,7 +2,7 @@
 
 Tenho 21 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no interior do Rio de Janeiro.🏄
 
-Desde pequeno fui apaixonado e viciado em tecnologia, sempre tive bastante contato com essa área e cresci com o sonho de poder criar jogos e programas. 🤓
+Desde pequeno, fui apaixonado e viciado em tecnologia, sempre tive bastante contato com essa área e cresci com o sonho de poder criar jogos e programas. 🤓
 
 Larguei a faculdade de Engenharia Ambiental na UFJF para poder seguir meu sonho, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Além disso estou matriculado no curso ESPETACULAR da trybe.🎈
 
