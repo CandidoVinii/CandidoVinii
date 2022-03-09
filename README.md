@@ -19,7 +19,7 @@ Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me proc
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5532991722925)
 
 
-![Vinicius Dias GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidoVinii&show_icons=true&theme=tokyonight)
+![Vinicius Dias GitHub stats]!(https://github-readme-stats.vercel.app/api?CandidoVinii=anuraghazra&theme=default_icons=true))
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoVinii&layout=compact)](https://github.com/CandidoVinii/github-readme-stats)
