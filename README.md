@@ -19,7 +19,9 @@ Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me proc
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5532991722925)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CandidoVinii&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits)
+<a href="https://github.com/CandidoVinii">
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=CandidoVinii&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=0ba2be&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+</a> 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoVinii&layout=compact)](https://github.com/CandidoVinii/github-readme-stats)
