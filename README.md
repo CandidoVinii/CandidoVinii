@@ -23,6 +23,7 @@ Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me proc
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=CandidoVinii&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=0ba2be&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true" />
 </a> 
 
+<a href="http://www.github.com/CandidoVinii"><img src="https://activity-graph.herokuapp.com/graph?username=CandidoVinii&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoVinii&layout=compact)](https://github.com/CandidoVinii/github-readme-stats)
 
