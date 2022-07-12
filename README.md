@@ -4,7 +4,8 @@ Tenho 22 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no int
 
 Desde pequeno, fui apaixonado e viciado em tecnologia, sempre tive bastante contato com essa área e cresci com o sonho de poder criar jogos e programas. 🤓
 
-Larguei a faculdade de Engenharia Ambiental na UFJF para poder seguir meu sonho, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Além disso estou matriculado no curso ESPETACULAR da trybe.🎈
+Atualmente estou no segundo período de análise e desenvolvimento de sistemas e cursando desenvolvimento fullstack na trybe onde me encontro no modulo de back-end.
+
 
 <p align="center">
     <img whidth="200" height="200" src="https://c.tenor.com/dmv-uCkUFEwAAAAC/celebrating-how-i-met-your-mother.gif">
