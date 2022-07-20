@@ -15,7 +15,7 @@ Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me proc
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/candido.vinii)
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5532991722925)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5532991946564)
 
 <hr/>
 
@@ -26,10 +26,6 @@ Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me proc
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoVinii&langs_count=8)](https://github.com/CandidoVinii/github-readme-stats)
-
-<hr/>
-
-<a href="http://www.github.com/CandidoVinii"><img src="https://activity-graph.herokuapp.com/graph?username=CandidoVinii&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <hr/>
 <div style="display: inline-block"></br>
