@@ -11,12 +11,14 @@ Atualmente estou no segundo período de análise e desenvolvimento de sistemas e
 
 Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me procurar nos links abaixo 😘🤙
 
-<div style="display: inline-block"></br>
+<div style="display: inline-block">
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-candido-749262110/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/candido.vinii)
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5532991946564)
+
 </div>
 
 <hr/>
