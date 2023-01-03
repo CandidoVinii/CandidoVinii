@@ -2,8 +2,9 @@
 
 Tenho 22 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no interior do Rio de Janeiro.🏄
 
-Atualmente estou no segundo período de análise e desenvolvimento de sistemas e cursando desenvolvimento fullstack na trybe onde me encontro no modulo de back-end.
+Atualmente estou no segundo período de análise e desenvolvimento de sistemas e me formando no curso desenvolvimento fullstack na trybe.
 
+Estou em busca de desafios para minha carreira como desenvolvedor onde eu possa contribuir e também aprender com a equipe.
 
 <p align="center">
     <img whidth="200" height="200" src="https://c.tenor.com/dmv-uCkUFEwAAAAC/celebrating-how-i-met-your-mother.gif">
