@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vinícius Aquino! 🙂
 
-Tenho 22 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no interior do Rio de Janeiro.🏄
+Tenho 23 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no interior do Rio de Janeiro.🏄
 
 Atualmente estou no segundo período de análise e desenvolvimento de sistemas e me formando no curso desenvolvimento fullstack na trybe.
 
