@@ -2,7 +2,7 @@
 
 Tenho 23 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no interior do Rio de Janeiro.🏄
 
-Atualmente estou no segundo período de análise e desenvolvimento de sistemas e me formando no curso desenvolvimento fullstack na trybe.
+Atualmente estou no penúltimo período de análise e desenvolvimento de sistemas.
 
 Estou em busca de desafios para minha carreira como desenvolvedor onde eu possa contribuir e também aprender com a equipe.
 
