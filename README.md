@@ -1,14 +1,11 @@
 ## Olá! Eu sou o Vinícius Aquino! 🙂
 
-Tenho 23 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no interior do Rio de Janeiro.🏄
+Tenho 24 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no interior do Rio de Janeiro.🏄
 
 Atualmente estou no penúltimo período de análise e desenvolvimento de sistemas.
 
 Estou em busca de desafios para minha carreira como desenvolvedor onde eu possa contribuir e também aprender com a equipe.
 
-<p align="center">
-    <img whidth="200" height="200" src="https://c.tenor.com/dmv-uCkUFEwAAAAC/celebrating-how-i-met-your-mother.gif">
-</p>
 
 Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me procurar nos links abaixo 😘🤙
 
