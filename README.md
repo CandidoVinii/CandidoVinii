@@ -43,5 +43,3 @@ Engenheiro de Software com foco em sistemas de missão crítica e arquiteturas i
 </div>
 
 <hr/>
-
-*"Eu não construo interfaces; projeto os sistemas que mantêm empresas operando."*
