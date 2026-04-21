@@ -1,50 +1,47 @@
-## Olá! Eu sou o Vinícius Aquino! 🙂
+# ## Olá! Eu sou o Cândido Vinícius! 🚀
 
-Tenho 24 anos e atualmente eu moro em Juiz de Fora/MG, mas nasci e cresci no interior do Rio de Janeiro.🏄
+Engenheiro de Software com foco em sistemas de missão crítica e arquiteturas invisíveis que garantem a operação de negócios em larga escala. Atualmente, atuo como **Back-end Developer** na **smartnx**.
 
-Atualmente estou no penúltimo período de análise e desenvolvimento de sistemas.
+### 🧠 Perfil Técnico
 
-Estou em busca de desafios para minha carreira como desenvolvedor onde eu possa contribuir e também aprender com a equipe.
+- 🎓 Graduando em **Sistemas de Computação** pela Fundação CECIERJ.
+- 🛠️ Especialista em **Back-end & Sistemas Distribuídos**, utilizando Node.js, TypeScript e Java.
+- ⚙️ Experiência com arquitetura orientada a eventos, mensageria e alta disponibilidade.
 
+---
 
-Bom espero que gostem dos projetos e qualquer dúvida ou propostas podem me procurar nos links abaixo 😘🤙
+### 🛠️ Stack Tecnológica
 
-<div style="display: inline-block">
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | TypeScript, Node.js, Java, Python, C++ |
+| **Back-end** | Express, NestJS, Spring Boot, Prisma, Hibernate |
+| **Infra & Ops** | Docker, WSL 2, RabbitMQ, Redis, Microservices |
+| **Frontend** | React, Next.js, Redux |
+| **Banco de Dados** | PostgreSQL, MySQL, Redis, MongoDB |
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-candido-749262110/)
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/candido.vinii)
+### 📊 Estatísticas e Impacto
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5532991946564)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CandidoVinii&show_icons=true&title_color=00E5FF&bg_color=050505&icon_color=00E5FF&text_color=E0E0E0&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoVinii&layout=compact&langs_count=8&title_color=FFB300&bg_color=050505&text_color=E0E0E0&icon_color=FFB300&hide_border=true" />
+</div>
 
+---
+
+### 🌐 Conecte-se Comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vinicius-candido-749262110/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=+5532991946564" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
+  </a>
 </div>
 
 <hr/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CandidoVinii&no-frame=true)
-
-<hr/>
-
-<a href="https://github.com/CandidoVinii">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=CandidoVinii&show_icons=true&title_color=af87ff&bg_color=22272e&icon_color=0ba2be&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-</a> 
-
-<hr/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CandidoVinii&langs_count=8)](https://github.com/CandidoVinii/github-readme-stats)
-
-<hr/>
-<div style="display: inline-block"></br>
-    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="REDUX" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-    <img align="center" alt="Typescript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label="/>
-    <img align="center" alt="Docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/>
-    <img align="center" alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label="/>
-    <img align="center" alt="Spring-Boot" src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label="/>
-    <img align="center" alt="MySql" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label="/>
-    <img align="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</div>
-
+*"Eu não construo interfaces; projeto os sistemas que mantêm empresas operando."*
