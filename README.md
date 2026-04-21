@@ -34,7 +34,7 @@ Engenheiro de Software com foco em sistemas de missão crítica e arquiteturas i
 ### 🌐 Conecte-se Comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vinicius-candido-749262110/" target="_blank">
+  <a href="https://www.linkedin.com/in/candidovinii/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=+5532991946564" target="_blank">
