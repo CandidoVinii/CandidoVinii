@@ -1,4 +1,4 @@
-# ## Olá! Eu sou o Cândido Vinícius! 🚀
+# ## Olá! Eu sou o Vinicius Candido! 🚀
 
 Engenheiro de Software com foco em sistemas de missão crítica e arquiteturas invisíveis que garantem a operação de negócios em larga escala. Atualmente, atuo como **Back-end Developer** na **smartnx**.
 
