@@ -7,6 +7,7 @@ Engenheiro de Software com foco em sistemas de missão crítica e arquiteturas i
 - 🎓 Graduando em **Sistemas de Computação** pela Fundação CECIERJ.
 - 🛠️ Especialista em **Back-end & Sistemas Distribuídos**, utilizando Node.js, TypeScript e Java.
 - ⚙️ Experiência com arquitetura orientada a eventos, mensageria e alta disponibilidade.
+- 🎨 Desenvolvimento Front-end focado em SPA e modernização de ecossistemas utilizando React, TypeScript e Vite.
 
 ---
 
